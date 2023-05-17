@@ -7,7 +7,8 @@ Useful Resources:<br>
 [Linux I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)<br>
 [Youtube Guide](https://www.youtube.com/watch?v=B7nHENGa7pc)<br>
 [Before/After Match in Shell](https://linuxhint.com/show-lines-before-after-match-via-grep/)<br>
-[Search A File for Pattern](https://www.ibm.com/docs/en/i/7.1?topic=data-grep)
+[Search A File for Pattern](https://www.ibm.com/docs/en/i/7.1?topic=data-grep)<br>
+[Finding Text String](https://www.ibm.com/docs/en/aix/7.2?topic=files-finding-text-strings-within-grep-command)
 <br><br>
 To run two letter file name as one in shell command e.g file name = file\ name (The \ terminates the whitespace and run it as a single command)
 ### Pipeline or Pipe <br>Is the ability to combine two commands together as one e.g. cut -c1 | tr -d "[:blank:]" (This combines commands cut -c1 - meaning cut first character and tr -d "[:blank:]" - delete all white space)
